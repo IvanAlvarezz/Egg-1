@@ -6,6 +6,7 @@ public class Cadena {
     private String frase;
     private int longitudFrase;
     private String nombre;
+    private int cantcarac;
     
     //Constructor
     public Cadena() {   //Predeterminado o vacio
