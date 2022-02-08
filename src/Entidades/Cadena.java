@@ -5,6 +5,7 @@ public class Cadena {
     //Atributos
     private String frase;
     private int longitudFrase;
+    private String nombre;
     
     //Constructor
     public Cadena() {   //Predeterminado o vacio
